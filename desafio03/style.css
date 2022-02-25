@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+.cinza {
+    background-color: #f5f5f5;
+}
+.colorido {
+    background-color: #F0CCE2;
+}
+
+.estilo{
+    margin: 40px;
+    padding: 20px;
+}
